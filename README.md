@@ -1,2 +1,2 @@
 # ZLCARTCCwebsite
-Serverless ;version of ZLCARTCC website
+Serverless version of ZLCARTCC website
